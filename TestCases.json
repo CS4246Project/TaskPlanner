@@ -52,5 +52,12 @@
                 "coding"
             ]
         }
+    ],
+    "compounded_skills": [
+        {
+            "coding": [
+                "typing"
+            ]
+        }
     ]
 }
