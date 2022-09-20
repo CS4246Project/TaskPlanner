@@ -1,0 +1,56 @@
+{
+    "members": [
+        {
+            "name": "Marcus",
+            "skills": [
+                "typing",
+                "drawing",
+                "editing"
+            ]
+        },
+        {
+            "name": "Tasha",
+            "skills": [
+                "typing",
+                "drawing"
+            ]
+        },
+        {
+            "name": "Hans",
+            "skills": [
+                "drawing",
+                "editing"
+            ]
+        },
+        {
+            "name": "Danelynn",
+            "skills": [
+                "eating",
+                "sleeping",
+                "editing"
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "assignment",
+            "prerequisite": [
+                "proposal"
+            ],
+            "skills_required": [
+                "editing",
+                "typing",
+                "coding"
+            ]
+        },
+        {
+            "name": "proposal",
+            "prerequisite": [],
+            "skills_required": [
+                "editing",
+                "typing",
+                "coding"
+            ]
+        }
+    ]
+}
